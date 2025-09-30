@@ -1,0 +1,57 @@
+# 🔐 Password Interview Questions & Answers
+
+## 1. What makes a password strong?
+A strong password is **long (12+ characters), unique, and unpredictable**, combining:
+- Uppercase letters  
+- Lowercase letters  
+- Numbers  
+- Symbols  
+
+**Tips:** Avoid dictionary words, common phrases, and repeated characters. Using passphrases or random strings increases security.
+
+---
+
+## 2. What are common password attacks?
+- **Brute Force Attack:** Tries all possible combinations.  
+- **Dictionary Attack:** Uses a list of common passwords or words.  
+- **Phishing / Social Engineering:** Tricks users into revealing credentials.  
+- **Credential Stuffing:** Reuses leaked credentials across multiple accounts.
+
+---
+
+## 3. Why is password length important?
+Longer passwords increase the **number of possible combinations**, making them harder to crack with brute force attacks. Even a complex short password is easier to guess than a long, moderately complex one.
+
+---
+
+## 4. What is a dictionary attack?
+A dictionary attack is a method where an attacker tries **commonly used passwords, dictionary words, and predictable combinations** to gain unauthorized access. Strong passwords avoid dictionary words to resist this attack.
+
+---
+
+## 5. What is multi-factor authentication (MFA)?
+MFA adds an extra layer of security beyond a password by requiring **two or more verification factors**, such as:
+- Something you **know** (password)  
+- Something you **have** (security token or mobile app)  
+- Something you **are** (biometric like fingerprint)  
+
+---
+
+## 6. How do password managers help?
+Password managers **generate, store, and autofill complex passwords securely**. They reduce the risk of reuse and allow users to maintain **unique, strong passwords** for each account without memorizing them.
+
+---
+
+## 7. What are passphrases?
+Passphrases are **long sequences of words or characters** that are easier to remember but highly secure.  
+**Example:** `"Sunshine!Rocks_2025#Cloud"`  
+They combine length, complexity, and memorability.
+
+---
+
+## 8. What are common mistakes in password creation?
+- Using **short or simple passwords** (`123456`, `password`)  
+- Reusing passwords across multiple accounts  
+- Using **personal info** (birthdate, name)  
+- Avoiding **special characters or numbers**  
+- Using **common dictionary words or predictable sequences**
