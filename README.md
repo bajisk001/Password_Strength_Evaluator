@@ -1,11 +1,11 @@
-# Password Strength Evaluation
+# 🔐 Password Strength Evaluation
 
-## Overview
+## 📖 Overview
 This repository contains a Python project to evaluate and understand password security. The goal is to learn what makes a password strong, test passwords of varying complexity, and summarize best practices for creating secure passwords.
 
 ---
 
-## Objective
+## 🎯 Objective
 - Understand factors that contribute to password strength.
 - Test passwords using a custom Python validator.
 - Learn best practices for creating strong passwords.
@@ -13,7 +13,7 @@ This repository contains a Python project to evaluate and understand password se
 
 ---
 
-## Features
+## ✨ Features
 - **Password validation script** that evaluates:
   - Length
   - Use of uppercase and lowercase letters
@@ -24,7 +24,7 @@ This repository contains a Python project to evaluate and understand password se
 
 ---
 
-## Sample Passwords Tested
+## 📝 Sample Passwords Tested
 | Password                   | Strength      | Feedback                                           |
 |----------------------------|---------------|--------------------------------------------------|
 | abc123                     | Weak          | Too short, lacks symbols/uppercase               |
@@ -51,14 +51,14 @@ This repository contains a Python project to evaluate and understand password se
   - **Strength Status** (Weak / Medium / Strong / Very Strong)
   - **Improvement Suggestions**
 
-## Dependencies
+## ⚙️ Dependencies
 - Python 3.11
 - Standard Python libraries:
   - `string`
 
 ---
 
-## Best Practices Learned
+## ✅ Best Practices Learned
 - Use at least **12 characters**.
 - Include **uppercase, lowercase, digits, and symbols**.
 - Avoid dictionary words or common passwords.
@@ -68,7 +68,7 @@ This repository contains a Python project to evaluate and understand password se
 
 ---
 
-## Common Password Attacks
+## 🛡️ Common Password Attacks
 - **Brute Force Attack:** Tries all possible combinations.
 - **Dictionary Attack:** Uses a list of common passwords to guess.
 - **Phishing / Social Engineering:** Tricks users into revealing passwords.
@@ -78,16 +78,16 @@ This repository contains a Python project to evaluate and understand password se
 
 ---
 
-## Summary
+## 📌 Summary
 This project demonstrates that **password complexity and length are critical for security**.  
 By testing various passwords and analyzing their strengths, users can understand what makes a password strong and adopt best practices to protect their accounts.
 
 ---
 
-## Author
+## 👤 Author
 **Baji Shaik**
 
-## License
+## 🔒 License
 This project is licensed under the MIT License.  
 © 2025 Baji Shaik
 
