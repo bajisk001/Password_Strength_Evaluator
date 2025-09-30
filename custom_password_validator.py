@@ -5,7 +5,7 @@ def validate_password(password: str) -> str:
     has_upper = any(c.isupper() for c in password)
     has_lower = any(c.islower() for c in password)
     has_digit = any(c.isdigit() for c in password)
-    has_symbol = any(c in string.punctuation for c in password)  # ✅ strict symbol check
+    has_symbol = any(c in string.punctuation for c in password)
 
     score = 0
     feedback = []
